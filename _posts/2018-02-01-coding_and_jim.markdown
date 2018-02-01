@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Coding and Jim"
-date:       2018-02-01 16:12:13 +0000
+date:       2018-02-01 11:12:14 -0500
 permalink:  coding_and_jim
 ---
 
