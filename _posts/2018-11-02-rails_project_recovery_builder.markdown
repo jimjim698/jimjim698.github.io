@@ -1,0 +1,13 @@
+---
+layout: post
+title:      "Rails Project "Recovery Builder" "
+date:       2018-11-02 05:01:27 +0000
+permalink:  rails_project_recovery_builder
+---
+
+
+Wow, so I just completed my first Rails project and to say that was an adventure would be putting it mildly.  While this was challenging for me I had a really great time doing it. It's nice to finally understand enough to know why I don't understand something.... if that makes sense. What I mean is, my brain is starting to recognize patterns when something fails to work how I want it to.  When I try to run a new feature and I get the "red and white screen of death" from rails I don't panic. I can usually pick out a few words from the error and know exactly where there's a problem without even having to read the error through. Also, I have gotten pretty good at looking for solutions on the web.  I attribute these trouble shooting skills to the video lectures. I was telling a friend at work the other day that the biggest thing I get from those lectures is when the instructor messes up and doesn't know why right away. Avi specifically is really good at being thorough about finding the best solution and thinking out loud as he does so.
+
+So what are my biggest takeaways from this project? For one COMMIT MESSAGES ARE VERY VERY IMPORTANT!. I am usually really good about detailing my commit messages but there were 2 occasions where I dropped the ball and suffered the consequences. To be honest I've never had to look back on a commit before because my previous projects were so much simpler. This one was much more complex and had many more moving pieces so one missed change in a commit message could be extremely time consuming down the road. Along these same lines, another thing I learned was the importance of mapping my project out. I started off by writing down how I wanted this to look functionality wise but I would have benefited a bit if I updated my notebook as the project changed because of a new idea.
+
+My favorite part of this project, by far, was finally setting up my local environment on my computer.  Up until now I have been using the Learn IDE . While this was necessary in the beginning, the more advanced I got the more obvious the IDE's short comings became. What finally did it was trying to get Omniauth working for my project. I figured there was a work around but I was ready to move on and that frustration gave me the final push I needed. I love working in my terminal and using Atom. Maybe this will sound a little cheesy but I feel like a real programmer now and I like that feeling. I'm excited to move on with all of these new tools in my tool belt.
