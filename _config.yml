@@ -1,15 +1,14 @@
 # Site settings
-title: 
+author: Jim Lotruglio
+title: Code and Behold
 header-img: img/home-bg.png
 email: jimlotruglio@yahoo.com
-copyright_name: jimjim698
+copyright_name: Jim Lotruglio
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Late bloomer into tech starting at the age of 27.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jimjim698
-learn_profile: jimjim698
-email_username: jimlotruglio@yahoo.com
 
 # Build settings
 markdown: kramdown
